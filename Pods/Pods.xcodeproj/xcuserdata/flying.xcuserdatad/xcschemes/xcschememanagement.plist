@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ESLibrary.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MJRefresh.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Pods-ESDemo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ReactiveObjC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Toast.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>10438786879092657AB3340CB294B86B</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>1EA6071D1182970C68CADCC307AD4B1A</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>4DC9EA73722CE5DF459DF53BC6C28267</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>5CC38A78D2D2908CA6CE585D0130BC24</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>6BA017453E2175E16C9E16D1E675B6A8</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>72610E696C797E0D3B77DAE2A0FC13CF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>7A222B71EDCD7C13F858686FDA0C72CB</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>7D0286BD470EECD4C9C047AAA6D5202C</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>7FF252432D29F63A0F237AA3A13DDBB7</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>906287CF66C2EB73A7485732861E6711</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>93CDCF6F68DCBB00F29C57C9515A3D84</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>CE52DBC1DFFBF119DE87F7B490D4B342</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>D46C65431E54B25C3A348892713F22AC</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>D52144DE9D7255DE912490FF5A806573</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>
