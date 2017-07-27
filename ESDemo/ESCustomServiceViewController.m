@@ -33,6 +33,8 @@
     
     [self.chatSessionInputBarControl.pluginBoardView removeItemWithTag:1003];
     // 分支 test
+
+    // App Code Test
 }
 
 /**
