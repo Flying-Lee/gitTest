@@ -1,4 +1,8 @@
 # gitTest
 test
 
-修改 README.md 文件
+1.修改 README.md 文件
+
+2.make a conflict
+
+
